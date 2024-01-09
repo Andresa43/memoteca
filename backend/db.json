@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Na minha máquina funciona",
+      "autoria": "Alguém",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Como é bom estudar na Alura",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Pensamento Teste",
+      "autoria": "Andresaaaa",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Testando a edição",
+      "autoria": "aula alura",
+      "modelo": "modelo1",
+      "id": 5
+    }
+  ]
+}
